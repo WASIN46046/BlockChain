@@ -1,0 +1,221 @@
+[
+    {
+      "id": "1410474",
+      "type": "Next JS",
+      "title": "Next JS & Typescript with Shopify Integration - Full Guide",
+      "description": "เรียนรู้ Next JS สมัยใหม่ (Next เวอร์ชั่น 10 ขึ้นไป) เขียนโค้ดทุกอย่างด้วย Typescript และทำการผนวกรวมกับ Shopify",
+      "coverImage": "https://thrangra.sirv.com/Next_TypeScript_Shopify_Final.jpg",
+      "slug": "next-js-typescript-with-shopify-integration-full-guide",
+      "wsl": [
+        "Build Next JS apps on your own",
+        "Build ecommerce apps with modern technologies",
+        "Use Shopify to your advantage"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "1331625",
+      "type": "Gatsby JS",
+      "title": "Gatsby JS Developer's Guide - Important Parts & Blog App",
+      "description": "เรียนรู้เฟรมเวิร์ก Gatsby JS (Gatsby v3) ที่ได้รับความนิยม ใช้ React/GraphQL เพื่อสร้างหน้าบล็อกของคุณเองด้วยสถาปัตยกรรม JAMStack.",
+      "coverImage": "https://thrangra.sirv.com/Gatsby.jpeg",
+      "slug": "gatsby-js-developer-s-guide-important-parts-blog-app",
+      "wsl": [
+        "Build Gatsby JS apps on your own",
+        "Build static page apps with modern technologies",
+        "Understand meaning and benefits of JAMStack",
+        "Use GraphQL to your advantage"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "1112431",
+      "type": "Unity",
+      "title": "The Complete Unity Guide 3D - Beginner to RPG Game Dev in C#",
+      "description": "สร้าง 3 เกมและเรียนรู้ Unity แนวปฏิบัติ! เริ่มต้นด้วยหลักการพื้นฐานและจบลงด้วยเกม RPG โดยใช้ Unity 2020 และภาษา C#",
+      "coverImage": "https://thrangra.sirv.com/UnityJS.jpeg",
+      "slug": "the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+      "wsl": [
+        "The practical approach by creating cool games",
+        "Fundamentals and core concepts of game development",
+        "Create a RPG game with tons of features",
+        "Math explanations behind the code."
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "985237",
+      "type": "Phaser 3",
+      "title": "Game Development in JS - The Complete Guide (w/ Phaser 3)",
+      "description": "เริ่มสร้างเกมของคุณเองและเผยแพร่บน Facebook. เรียนรู้วิธีการสร้างเกม HTML5 ด้วย Javascript ใน Phaser 3.",
+      "coverImage": "https://thrangra.sirv.com/PhaserJS.jpeg",
+      "slug": "phaser-3-the-complete-guide-build-publish-games-in-js",
+      "wsl": [
+        "Developing games by creating the games",
+        "Fundamentals of game development",
+        "Use Javascript to develop games for Facebook",
+        "Publish your own game on Facebook Instant Games"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "925927",
+      "type": "Electron JS",
+      "title": "Electron & React JS: Build a Native Chat App with Javascript",
+      "description": "เรียนรู้วิธีการสร้างแอปพลิเคชันแชทด้วย Electron และ React JS. ใช้ React JS ร่วมกับ Firebase (ฐานข้อมูล) เพื่อสร้างแอปพลิเคชันเนทีฟอย่างสมบูรณ์",
+      "coverImage": "https://thrangra.sirv.com/Electron.jpeg",
+      "slug": "electron-react-js-build-native-chat-app-with-javascript",
+      "wsl": [
+        "Understand how Electron JS works",
+        "Create a 'real-life' chat application",
+        "Create native apps with Javascript, Html + CSS",
+        "Learn how to use React JS in combination with Electron"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "896464",
+      "type": "Vue, React, Angular",
+      "title": "Vue JS 3, React JS & Angular - Guide to Popular Frameworks",
+      "description": "เข้าใจพื้นฐานและส่วนที่ยากของ 3 เฟรมเวิร์กที่ได้รับความนิยมมากที่สุด - React JS, Angular และ Vue. ทั้งหมดในหลักสูตรเดียว!",
+      "coverImage": "https://thrangra.sirv.com/VueReactAng.jpeg",
+      "slug": "vue-3-react-angular-guide-to-popular-frameworks",
+      "wsl": [
+        "Most popular web frameworks -> React, Angular & Vue JS",
+        "Features explained on practical examples",
+        "Base and core concepts of the three most popular frameworks"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "",
+      "type": "Vue JS",
+      "title": "Vue JS 3 - The Practical Guide",
+      "description": "เข้าใจส่วนพื้นฐานและส่วนที่ยากของเฟรมเวิร์ก Vue JS 3 หลักสูตรนี้รวมถึง Vue Router และคุณสมบัติล่าสุดของ Vue JS 3 รวมทั้ง Composition API  ",
+      "coverImage": "https://thrangra.sirv.com/Vue3.png",
+      "slug": "vue-js-3-the-practical-guide",
+      "wsl": [
+        "Features explained on practical examples",
+        "Base and core concepts of Vue JS 3"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "847859",
+      "type": "Next JS",
+      "title": "Complete Next.js with React & Node - Beautiful Portfolio App",
+      "description": "สร้างเว็บแอปพลิเคชันแบบไม่ใช้เซิร์ฟเวอร์ด้วย Next.js. เรียนรู้เกี่ยวกับ Hooks. ทำการประกาศใช้งานบน Vercel Next.js (Next JS เวอร์ชัน 10 ขึ้นไป), React (React เวอร์ชัน 16 ขึ้นไป) และ Node",
+      "coverImage": "https://thrangra.sirv.com/NextJS.jpeg",
+      "slug": "complete-next-js-with-react-node-beautiful-portfolio-app",
+      "wsl": [
+        "Develop serverless & classical web applications with the latest Next JS & React",
+        "Understand web concepts clearly by creating real-world applications",
+        "Create SEO (Search Engine Optimisation) and Isomorphic Friendly Applications",
+        "Establish yourself in field of the exciting Next and React web development environment"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "846120",
+      "type": "React, Angular",
+      "title": "React, Angular, Node In-Depth Guide: Beginner to Pro (2020)",
+      "description": "คู่มือนักพัฒนาเว็บจากผู้เริ่มต้นถึงระดับสูง ชำนาญ Angular (Angular เวอร์ชัน 8 ขึ้นไป), React และ Redux (React เวอร์ชัน 16.12 ขึ้นไป) และ Node พร้อมกับ Mongo DB",
+      "coverImage": "https://thrangra.sirv.com/AngularJS.jpeg",
+      "slug": "react-angular-node-in-depth-guide-beginner-to-pro-2020",
+      "wsl": [
+        "Develop Real-world web applications with React, Angular and Node",
+        "Understand the processes and architecture of Angular, React and Node",
+        "Create own web applications in most demanded frameworks on the market",
+        "Establish yourself in field of the exciting Angular, React and Node web development environment"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "848148",
+      "type": "React JS",
+      "title": "React JS & Firebase Complete Course (incl. Chat Application)",
+      "description": "สร้างแอปพลิเคชัน React JS 'ในโลกแห่งความจริง' ที่เชื่อมต่อกับ Firestore (Firebase). Redux, ระบบการยืนยันตัวตน + คุณสมบัติแบบเรียลไทม์!",
+      "coverImage": "https://thrangra.sirv.com/ReactFirebase.jpeg",
+      "slug": "react-js-firebase-complete-course-incl-chat-application",
+      "wsl": [
+        "Develop real-world web application with React JS and Firebase",
+        "Understand the processes and concepts of React JS 2",
+        "Use gained knowledge to create your own Web Applications"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "848633",
+      "type": "Vue JS",
+      "title": "Vue JS 2 &  Firebase Complete Course",
+      "description": "เรียนรู้วิธีสร้างแอปพลิเคชัน Vue JS 2 'ในโลกแห่งความจริง' ที่เชื่อมต่อกับฐานข้อมูล Firestore (Firebase)",
+      "coverImage": "https://thrangra.sirv.com/VueFirebase.jpeg",
+      "slug": "vue-js-2-firebase-complete-course",
+      "wsl": [
+        "Develop real-world web application with Vue JS 2 and Firebase",
+        "Understand the processes and concepts of Vue JS 2",
+        "Use gained knowledge to create your own Web Applications"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "847355",
+      "type": "Next JS",
+      "title": "Next.JS with Sanity CMS - Serverless Blog App (w/ Vercel)",
+      "description": "สร้างแอปบล็อกของคุณเองด้วย Next.JS และ React รุ่นล่าสุด (Next 9.4+, React hooks). เรียนรู้วิธีการใช้งาน Sanity CMS แบบไม่มีหน้าจอ (headless)",
+      "coverImage": "https://thrangra.sirv.com/Sanity.jpeg",
+      "slug": "next-js-with-sanity-cms-serverless-blog-app-w-vercel",
+      "wsl": [
+        "Use the latest Next/React features (getStaticProps, getStaticPaths, getServerSideProps)",
+        "Create statically generated web apps",
+        "Deploy Serverless Apps !",
+        "Integrate Sanity CMS"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "847356",
+      "type": "Next JS",
+      "title": "Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)",
+      "description": "เรียนรู้ GraphQL และ Apollo! สร้างแอปพลิเคชันพอร์ตโฟลิโอที่รวดเร็วด้วย Next.js (Next 9+) / React ซึ่งรองรับด้วย Apollo + Node.js",
+      "coverImage": "https://thrangra.sirv.com/Apollo.jpeg",
+      "slug": "next-js-and-apollo-portfolio-app-w-react-graphql-node",
+      "wsl": [
+        "Develop Real-world web application with Next JS, Apollo and Node",
+        "Create your own portfolio application in most demanded frameworks on the market",
+        "Grasp full power of GraphQL"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "845151",
+      "type": "Vue JS",
+      "title": "The Complete Vue JS Developer Course – inc. Vue JS 2!",
+      "description": "สร้างแอปพลิเคชันเว็บจริงๆ ด้วย Vuex, Router, Node! เชี่ยวชาญ Vue Js และ Vue JS 2!",
+      "coverImage": "https://thrangra.sirv.com/VueJS.jpeg",
+      "slug": "the-complete-vue-js-developer-course-inc-vue-js-2",
+      "wsl": [
+        "Develop powerful, modern, real-world web applications with Vue JS 2 and Node",
+        "Completely understand the processes and concepts of Vue JS 2",
+        "Use gained knowledge to create your own Web Applications",
+        "Become fluent in concepts and tools like Vuex, MongoDb, Sockets, Authentication"
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "850741",
+      "type": "Nuxt JS",
+      "title": "The Complete Nuxt.js & Vue.js Course | Self Promo App",
+      "description": "คู่มือนักพัฒนาครบวงจรที่ครอบคลุมความรู้จากพื้นฐานไปจนถึงขั้นสูงของ Vue.js และ Nuxt.js ลงมือปฏิบัติกับโปรเจกต์จริง",
+      "coverImage": "https://thrangra.sirv.com/NuxtJS.jpeg",
+      "author": "Filip Jerga",
+      "slug": "the-complete-nuxt-js-vue-js-course-self-promo-app",
+      "wsl": [
+        "Develop powerful, modern, real-world web applications with Nuxt JS, Vue JS 2 and Node",
+        "Completely understand the processes and concepts of Nuxt JS & Vue JS 2",
+        "Use gained knowledge to create your own Web Applications",
+        "Become fluent in concepts and tools like SSR, Vuex, Vuelidate and more"
+      ],
+      "createdAt": ""
+    }
+  ]
